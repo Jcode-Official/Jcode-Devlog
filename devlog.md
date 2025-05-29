@@ -2,7 +2,7 @@
 Last revised on May 29, 2025
 
 © Jcode '25
-Note: This devlog is for Jcode 2.0, not 1.0.
+Note: This devlog is for Jcode 2.0, not 1.0. 1.0 was a floop, with Google Blockly. That's when I did not find Snap!
 
 ## JCODE BETA WEBSITE
 04/20/2025: Created the editor demo website hosted on jbluebirdie.neocities.org
