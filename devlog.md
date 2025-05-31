@@ -11,5 +11,9 @@ Note: This devlog is for Jcode 2.0, not 1.0. 1.0 was a floop, with Google Blockl
 ## JCODE EDITOR DEVLOG
 UNKNOWN, AROUND FEB 2025: Created Jcode 2.0
 04/16/2025: Began exploring options for a new visual refresh for the coding editor interface.
+
 04/21/2025: Set the "Flat Design" mode as the default visual style for the editor on initial load.
+
 04/22/2025: Implemented minor performance improvements within the scripting area for better handling of blocks.
+
+05/30/2025: Allowed changes so that Jcode is NOT locked on flat mode. Updated these changes on jcode-official.neocities.org and the Github Repo
