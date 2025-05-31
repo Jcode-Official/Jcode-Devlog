@@ -1,12 +1,14 @@
 ## Jcode Devlog
-Last revised on May 29, 2025
+Last revised on May 31, 2025
 
 © Jcode '25
 Note: This devlog is for Jcode 2.0, not 1.0. 1.0 was a floop, with Google Blockly. That's when I did not find Snap!
 
 ## JCODE BETA WEBSITE
 04/20/2025: Created the editor demo website hosted on jbluebirdie.neocities.org
+
 04/21/2025: Moved the editor demo to jcode-official.neocities.org and created a proper beta website
+
 04/23/2025: Designed the initial structure for the Jcode Newsroom page to display articles dynamically based on URL.
 ## JCODE EDITOR DEVLOG
 UNKNOWN, AROUND FEB 2025: Created Jcode 2.0
